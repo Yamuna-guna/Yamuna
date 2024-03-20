@@ -5,7 +5,7 @@ public class EvenNumbers {
 
     public static void main(String[] args) {
         
-        Scanner my = new Scanner(System.in);
+        Scanner myobj = new Scanner(System.in);
         
 
         
