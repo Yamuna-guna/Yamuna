@@ -8,7 +8,8 @@ public class EvenNumbers {
         Scanner my = new Scanner(System.in);
         
 
-
+          System.out.println(Yamuna S);
+        
         System.out.println("enter the starting number:");
         int s = my.nextInt();
 
@@ -23,6 +24,7 @@ public class EvenNumbers {
          if(i%2==0){
 
             System.out.println(i);
+          
          }
       }
 
