@@ -8,7 +8,6 @@ public class EvenNumbers {
         Scanner my = new Scanner(System.in);
         
 
-          System.out.println(Yamuna S);
         
         System.out.println("enter the starting number:");
         int s = my.nextInt();
