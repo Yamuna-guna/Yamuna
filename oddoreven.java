@@ -7,7 +7,7 @@ public class EvenNumbers {
         
         Scanner myobj = new Scanner(System.in);
         
-
+    
         
         System.out.println("enter the starting number:");
         int s = my.nextInt();
